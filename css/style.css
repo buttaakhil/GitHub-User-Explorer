@@ -22,7 +22,7 @@ body {
   background-color: #0d192b;
 }
 
-a {
+.link {
   text-decoration: none;
   font-size: 1.2rem;
   color: white;
@@ -114,6 +114,9 @@ hr {
   color: #fff;
 }
 
+a{
+  text-decoration: none;
+}
 @media(max-width:500px){
   #form{
     display: flex;
